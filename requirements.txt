@@ -1,26 +1,15 @@
-# Shared
 torch>=2.2
 psutil
 requests
-
-# 1. Text (Hugging Face Transformers)
 transformers>=4.40
 sentencepiece
 protobuf
 scikit-learn
-datasets          # only for: text_sentiment/evaluate.py --tweet-eval
-
-# 2. Audio (Hugging Face Transformers + Whisper)
-soundfile         # reads wav / flac / ogg / mp3; .m4a is converted with macOS afconvert
-scipy             # resampling to 16 kHz
-
-# 3. Image (PyTorch / torchvision)
+datasets 
+soundfile
+scipy
 torchvision
 pillow
-
-# 4. Video (Ultralytics YOLO26 on PyTorch)
 ultralytics
 opencv-python
-lap               # needed by the ByteTrack tracker
-
-# 5. LLM: no Python ML packages — the model runs inside Ollama, chat.py talks to it with `requests`
+lap
