@@ -1,0 +1,31 @@
+text,label,lang
+"I love this new phone, it works perfectly!",positive,en
+"Not bad at all, actually pretty impressive.",positive,en
+This is the best coffee shop in town.,positive,en
+"Thanks so much, you really saved my day!",positive,en
+The service was terrible and the staff was rude.,negative,en
+"I'm so disappointed, the package arrived broken.",negative,en
+"This app keeps crashing, absolutely useless.",negative,en
+The meeting starts at 10am in room 204.,neutral,en
+The store closes at 9pm on weekdays.,neutral,en
+The package was delivered yesterday afternoon.,neutral,en
+"Этот ресторан просто превосходен, обязательно вернусь.",positive,ru
+"Спасибо огромное, вы очень помогли!",positive,ru
+"Отличный сервис, всё быстро и вежливо.",positive,ru
+"Это был худший опыт в моей жизни, никому не советую.",negative,ru
+"Качество просто отвратительное, деньги на ветер.",negative,ru
+"Отвратительное обслуживание, никогда больше не вернусь.",negative,ru
+"Ну да, конечно, именно этого я и ждал...",negative,ru
+Поезд отправляется в девять утра с третьей платформы.,neutral,ru
+Магазин работает с десяти до восемнадцати.,neutral,ru
+Отчёт нужно отправить до конца недели.,neutral,ru
+"Bu otel gerçekten mükemmeldi, çok memnun kaldım.",positive,tr
+"Fena değil, hatta oldukça iyiydi.",positive,tr
+"Harika bir hizmetti, tekrar geleceğim.",positive,tr
+"Çok teşekkür ederim, gerçekten yardımcı oldunuz.",positive,tr
+"Hizmet çok kötüydü, personel kabaydı.",negative,tr
+"Ürün kırık geldi, çok hayal kırıklığına uğradım.",negative,tr
+"Bu uygulama sürekli çöküyor, kullanılamaz durumda.",negative,tr
+Kütüphane hafta sonu kapalıdır.,neutral,tr
+Otobüs sabah yedide kalkıyor.,neutral,tr
+Toplantı saat onda başlıyor.,neutral,tr

@@ -1,0 +1,22 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+
+# downloaded datasets and model weights (re-downloaded automatically)
+audio_asr/data/librispeech/
+image_classification/data/
+datasets/
+*.pt
+
+# large generated / input media
+*.mp4
+*.mov
+
+# YOLO inference outputs
+runs/
+results/
+*.log
